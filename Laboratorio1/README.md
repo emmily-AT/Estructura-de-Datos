@@ -42,7 +42,6 @@ Cada bloque contiene valores aleatorios entre `0` y `1`, que corresponden a los 
 | Archivo              | Descripción                                                                                                                    |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | `matriz.py`          | Código principal del laboratorio. Contiene las funciones para crear, consultar, verificar y exportar información de la matriz. |
-
 | `README.md`          | Documento con la explicación del laboratorio, funcionamiento del código y forma de verificar la matriz.                        |
 
 ## Funciones
